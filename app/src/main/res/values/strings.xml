@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MultitranTest</string>
+
+    <string-array name="languages_array">
+        <item>Русский</item>
+        <item>Английский</item>
+        <item>Немецкий</item>
+        <item>Испанский</item>
+    </string-array>
+
+</resources>
